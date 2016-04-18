@@ -1,0 +1,15 @@
+#nav-menu {
+	text-align: center;
+	border-bottom: 1px solid black;
+}
+
+#nav-menu li {
+	padding-left: 50px;
+	padding-right: 50px;
+	display: inline-block;
+	text-align: center;
+	list-style-type: none;
+	padding: .5em 0;
+	text-align: center;
+}
+
